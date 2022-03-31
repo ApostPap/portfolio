@@ -3,7 +3,7 @@ import "../home_left/style.css";
 import { Container, Row, Col, Button } from "react-bootstrap";
 import ReactTypingEffect from "react-typing-effect";
 import { Link } from "react-router-dom";
-import CV from "../../assets/cv3.pdf";
+import CV from "../../assets/cv.pdf";
 
 function Home_Left() {
 	return (
