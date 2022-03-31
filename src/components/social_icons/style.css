@@ -1,0 +1,52 @@
+.social-icons{
+    text-align: center;
+    font-size: 32px;
+
+  }
+ 
+  .fb{
+
+    margin: 2%;
+    color: white;
+  }
+
+  .fb:hover{
+    font-size: 40px;
+
+    color: #386ddd;
+  }
+
+  .git{
+    margin: 2%;
+    color: white;
+  }
+
+  .git:hover{
+    font-size: 40px;
+
+    color: #5C6BC0;
+  }
+
+  
+
+  .insta{
+    margin: 2%;
+    color: white;
+  }
+
+  .insta:hover{
+    font-size: 40px;
+
+    color: #c1558b;
+  }
+
+  .linkedin{
+    margin: 2%;
+    color: white;
+  }
+  
+  .linkedin:hover{
+    font-size: 40px;
+
+    color: #0e76a8;
+  }

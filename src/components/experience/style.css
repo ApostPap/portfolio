@@ -1,0 +1,181 @@
+.experience_header {
+	font-size: 40px;
+
+	/**text-align: center;**/
+	color: white;
+
+	margin-top: 30px;
+	margin-left: 25px;
+}
+
+
+
+.experience_card {
+	border-radius: 25px;
+
+	background-color: white;
+
+	margin: 20px;
+
+	width: auto;
+	height: 300px;
+}
+
+.experience_image {
+	width: 80%;
+	height: auto;
+}
+
+.experience_image_small {
+	width: 60%;
+	height: auto;
+}
+
+.experience_circle {
+	background-color: white;
+	border-radius: 50%;
+
+	color: rgb(68, 68, 68);
+	box-shadow: 0 5px 20px;
+
+	width: 200px;
+	height: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	margin-top: 30px;
+}
+
+.div_image {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.experience_main {
+	margin-top: 150px;
+}
+
+.experience_name {
+	text-align: center;
+}
+
+.work_name {
+	text-decoration: underline;
+}
+.experience_position {
+	text-align: center;
+}
+.experience_year {
+	text-align: center;
+}
+.experience_info {
+	border-radius: 25px;
+	background-color: aliceblue;
+	padding: 20px;
+
+	height: 300px;
+}
+
+.work-btn {
+	margin-top: 20px;
+}
+
+@media (max-width: 1200px) {
+	.spacer {
+		height: 300px;
+	}
+
+	.spacer_small {
+		height: 250px;
+	}
+
+	.spacer_small_second {
+		height: 250px;
+	}
+
+	.spacer_footer{
+		height: 360px;
+
+	}
+
+	.experience_circle {
+		width: 175px;
+		height: 175px;
+	}
+	.div_image {
+		padding-bottom: 20px;
+	}
+
+	.experience_info {
+		height: max-content;
+	}
+}
+
+
+
+@media (max-width: 768px) {
+	.experience_circle {
+		width: 175px;
+		height: 175px;
+	}
+	.div_image {
+		padding-bottom: 20px;
+	}
+
+	.experience_info {
+		height: max-content;
+	}
+
+	.experience_header {
+		margin-top: 60px;
+	}
+	.spacer {
+		height: 500px;
+	}
+
+	.spacer_small {
+		height: 250px;
+	}
+
+	.spacer_small_second {
+		height: 250px;
+	}
+
+	
+
+	.button_div {
+		display: flex;
+		justify-content: center;
+	}
+}
+
+@media (max-width: 600px) {
+	.spacer_small {
+		height: 20rem;
+	}
+
+	.spacer_small_second {
+		height: 20rem;
+	}
+}
+@media (max-width: 430px) {
+	.spacer_small {
+		height: 25rem;
+	}
+
+	.spacer_small_second {
+		height: 25rem;
+	}
+}
+
+@media (max-width: 350px) {
+	.spacer_small {
+		height: 450px;
+	}
+
+	.spacer_small_second {
+		height: 450px;
+	}
+}
