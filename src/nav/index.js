@@ -13,7 +13,7 @@ import Projects from "../pages/projects";
 
 export default function Nav() {
   return (
-    <Router>
+    <Router basename="/">
      <Switch>
         <Route exact path="/" component={Loading} />
         <Route path="/home" component={Home} />
