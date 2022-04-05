@@ -44,7 +44,7 @@ function Education() {
 										<h5>September 2016 - February 2021</h5>
 										<span>
 											Took courses in Software Engineering, Data Structures,
-											Aritificail Intelligence and Operating Systems.
+											Artificail Intelligence and Operating Systems.
 											Experienced in Java and Python but also knowledgeable in
 											C/C++ programming languages. Participated in the research
 											of "Topic Modeling for Greek MOOCs" and published a paper.

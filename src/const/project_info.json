@@ -4,8 +4,8 @@
 			"id": 0,
 			"name": "This Portfolio",
 			"description": "A simple portfolio to showcase some of my work and projects.",
-			"tools": "React Framework, Javascript, Bootstrap, HTML/CSS, Github",
-			"link": "https://apostpap.github.io/portfolio/",
+			"tools": "React Framework, Javascript, Bootstrap, HTML/CSS, Github, Netlify",
+			"link": "https://github.com/ApostPap/portfolio",
 			"image": []
 		},
 		{
