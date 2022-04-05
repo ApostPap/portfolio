@@ -20,7 +20,7 @@
 		{
 			"id": 2,
 			"name": "FlipYard",
-			"description": " A management tool that helps you maximize your effectiveness when flipping items. Automatically search prices for similar items on Ebay.",
+			"description": " A management tool that helps you maximize your effectiveness when flipping items. Automatically search prices for similar items on eBay.",
 
 			"tools": "Android, Java, Web Scraping",
 			"link": "https://play.google.com/store/apps/details?id=com.apostpapad.flipyard",
@@ -48,7 +48,7 @@
 		{
 			"id": 5,
 			"name": "Battery Charge Notification",
-			"description": "Python script that raises notifications based on laptop's battery percentage in order to preverse the battery health.",
+			"description": "A python script that raises notifications based on the laptop's battery percentage in order to reverse the battery health.",
 
 			"tools": "Python",
 			"link": "https://github.com/ApostPap/BatteryChargeNotification",
@@ -66,7 +66,7 @@
 		{
 			"id": 7,
 			"name": "Amazon/Ebay Search & BMI Calculator Plugins on Jarvis Project",
-			"description": "The Amazon/Ebay Search plugin allows you to type a term in your console and it will find it on Amazon/Ebay. The health plugin can tell you about your Body Mass Index(BMI) and daily caloric intake while also suggesting calories for losing weight and for putting on weight.",
+			"description": "The Amazon/eBay Search plugin allows you to type a term in your console and it will find it on Amazon/eBay. The health plugin can tell you about your Body Mass Index (BMI) and daily caloric intake while also suggesting calories for losing weight and for putting on weight.",
 
 			"tools": "Python, Linux, Github",
 			"link": "https://github.com/ApostPap/Jarvis",
